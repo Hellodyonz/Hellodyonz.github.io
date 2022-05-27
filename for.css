@@ -1,0 +1,42 @@
+footer {
+    
+    background-color: #303030;
+    color : #fff;
+    height: 350px;
+    padding : 40px;
+    border-top: 1px solid white;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+
+
+  .footer-list li {
+    padding-bottom : 20px;
+    margin-top: 20px;
+  }
+
+  .footer-list li {
+    list-style: none;
+    
+}
+
+.footer-list {
+    padding-right: 40px;
+}
+
+.footer-list li a:link {
+    text-decoration: none;
+}
+
+.bottom {
+    height: 30px;
+    text-align: center;
+    border-top: 1px solid white;
+    padding-top: 2px;
+}
+
+.bottom h5{
+    color: white;
+    background-color: black;
+}
